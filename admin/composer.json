@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient": "^2.16",
+        "google/photos-library": "^1.7"
+    }
+}
